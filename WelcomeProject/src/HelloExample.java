@@ -5,5 +5,10 @@ public class HelloExample {
 		System.out.println("Welcome in Git World");
 		
 	}
+	
+	public void m1()
+	{
+	System.out.println("Welcome in m1 method");
+	}
 
 }
